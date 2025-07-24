@@ -7,7 +7,7 @@ AI-driven music generation system that analyzes Spotify playlists, extracts audi
 
 ![UI](preview.png)
 ![Prompt Generated](preview1.png)
-![Output Sample](./sample.wav)
+![Output Sample](sample.wav)
 
 ## ✨ Features
 
