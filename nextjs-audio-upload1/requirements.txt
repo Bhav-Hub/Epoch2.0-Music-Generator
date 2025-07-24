@@ -1,0 +1,13 @@
+flask
+flask-cors
+pandas
+transformers
+torch
+torchaudio
+scipy
+langchain-groq
+langgraph
+yt-dlp
+youtubesearchpython
+requests
+python-dotenv
