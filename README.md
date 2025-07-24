@@ -8,7 +8,7 @@ AI-driven music generation system that analyzes Spotify playlists, extracts audi
 ![UI](preview.png)
 
 ![Prompt Generated](preview1.png)
-[Output Sample](sample.wav)
+[Output Audio Sample](sample.wav)
 
 ## ✨ Features
 
@@ -29,6 +29,8 @@ The system uses a multi-stage workflow:
 4. **Statistical Analysis**: Computes statistics from playlist features using weighted average
 5. **Prompt Generation**: Creates natural language descriptions with Mixtral-8x7b-32768
 6. **Music Synthesis**: Generates audio with MusicGen using the generated prompt
+
+![LangGraph architecture](architecture.png)
 
 ## 📁 Project Structure
 
