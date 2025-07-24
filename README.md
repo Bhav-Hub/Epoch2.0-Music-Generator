@@ -6,8 +6,9 @@ This project was built in 16 hours during my third-year at a college hackathon -
 AI-driven music generation system that analyzes Spotify playlists, extracts audio features and identifies instruments to create a short representative audio clips using MusicGen and Mixtral
 
 ![UI](preview.png)
+
 ![Prompt Generated](preview1.png)
-![Output Sample](sample.wav)
+[Output Sample](sample.wav)
 
 ## ✨ Features
 
